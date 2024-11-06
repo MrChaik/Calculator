@@ -28,7 +28,7 @@ button {
 }
 #display
 {
-    background-color: grey;
+    background-color: rgb(91,89,89);
     color: white;
     border: none;
     border-radius: 5px;
